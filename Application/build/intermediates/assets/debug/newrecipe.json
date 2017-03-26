@@ -1,0 +1,70 @@
+{
+name: "Chinese Noodles.json",
+steps: [
+{
+text: "Get your ingredients together. Use as much, or as little, as you want.",
+img: "step1-cn.jpg"
+},
+{
+text: "Boil the pasta.",
+img: "step2-cn.jpg"
+},
+{
+text: "Cut the vegetables.",
+img: "step3-cn.jpg"
+},
+{
+text: "Put the vegetables with butter in a pot.",
+img: "step4-cn.jpg"
+},
+{
+text: "Wait a few minutes and add 2 cubes of chicken bouillon,some salt,vinegar and soy sauce.",
+  img: "step5-cn.jpg"
+
+},
+{
+text: "Mix them with the pasta.",
+  img: "step6-cn.jpg"
+},
+{
+text: "Take it from the pot to a plate and eat it.",
+  img: "step7-cn.jpg"
+}
+],
+summary: "",
+title: "Chinese Noodles",
+img: "Chinesenoodles.jpg",
+serving: [
+"Here is an easy recipe that you can make using vegetables and Chinese noodles."
+],
+ingredients: [
+{
+text: "cabbage"
+},
+{
+text: "carrot"
+},
+{
+text: "little green pepper"
+},
+{
+text: "corn"
+},
+{
+text: "Chinese noodles"
+},
+  {
+    text: "Salt"
+  },
+  {
+    text: "Vinegar"
+  },
+  {
+    text: "2 cubes chicken bouillon"
+  },
+  {
+    text: "Soy sauce"
+  }
+
+]
+}

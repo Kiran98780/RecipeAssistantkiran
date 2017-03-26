@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\0c06a663293f62f50aa5ca33d48dc079fe01f007\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_fe3fe2b800e86eb592e8803c37179d551ba29557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\5e1fad72a27b9aa8aceb3dff4db59d928e0b22c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_5761a5309ae7fe9a3941e610ce9b95bdbae97d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\6eff53e189a3834c6a7efefddc2932c8e1d121dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_a00086d5106f0f2f7c10fba88b58a288d7917d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\9810c861197469ec919359f39c61a455e11add9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_333729d64feb8929468c89aca6515ec5ea07cbc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\46a795e4123db49262566960c9e6d6727abcecaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_9a03a6af310370d0767224a92dfea8390a5b0cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\4863d3dc2f92f65de682e07eada4a7ba0a488954\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_8e37056003b5b4d97d358ed4382c4f5662ea9d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\aa1df359e0fc40d65597833c69be3bb6d2300429\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_bdda0239307b7285fd13cf9714bc83d8e9cbc27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\1491f68d47186c165d26f91f3cee931fc3311bfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_0f6084442062cd242196022f21bef136cbe4137f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\e19489f60e1e32b29642080b478d8bc74655f42a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_c472b27a0c49abbd748f284aeda0b57fd087fa5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\ce605a287dd6057fb0acf1c79b7e10113c92ba2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_a3e6e63270e555ac4c7c816d7515fdf8618aaafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\.android\build-cache\a5834d446282ba9702da342aa256dcccea9b9511\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\classes_3737716fad81bbce5cdbe31531502c8ae161cc1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ctadmin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\ctadmin\Desktop\kiran\RecipeAssistantkiran\Application\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_e3d4fa6c01f92eb377618dbef644fbe23300166e.jar" />
+    </item>
+
+</items>

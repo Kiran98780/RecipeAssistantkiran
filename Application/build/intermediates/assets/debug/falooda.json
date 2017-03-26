@@ -1,0 +1,78 @@
+{
+name: "falooda.json",
+steps: [
+{
+text: "firstly, in a tall glass add 2 tsp of soaked sabja seeds."
+  img: "step1-f.jpg"
+},
+{
+text: "then add cooked faluda sev."
+  img: "step2-f.jpg"
+},
+{
+text: "furthermore, add rose syrup along the edges of the glass. this will make your glass look more attractive.",
+img: "step3-f.jpg"
+},
+{
+text: "then pour the prepared rose milk. do not pour it fully, as we are going to add ice cream."
+  img: "step4-f.jpg"
+},
+{
+text: "carefully place 2 tsp of strawberry jelly. so the milk doesn’t splash out."
+  img: "step5-f.jpg"
+},
+  {
+    text: "also top with a scoop of vanilla ice-cream.",
+    img: "step6-f.jpg"
+  },
+  {
+    text: "finally, garnish with chopped dry fruits and tutti frutti.",
+    img: "step7-f.jpg"
+  },
+  {
+    text: "lastly, serve faluda immediately.",
+    img: "step8-f.jpg"
+  }
+
+
+],
+//summary: "Some guacamole recipes call for many ingredients and can be a pain to prepare. This super simple guac can be thrown together in a couple of minutes and tastes great.",
+title: "Royal Falooda",
+img: "falooda.jpg",
+serving: "",
+ingredients: [
+{
+text: "1 tsp rose syrup"
+},
+{
+text: "2 tbsp strawberry jelly"
+},
+  {
+    text: "2 tsp cashews, pistachios, almonds - chopped"
+  },
+  {
+    text: "1 tsp tutti frutti"
+  },
+  {
+    text: "½ cup falooda sev / vermicelli"
+  },
+  {
+    text: "2 tsp basil seeds / sabja seeds / tukmaria seeds"
+  },
+  {
+    text: "1½ cup full fat milk"
+  },
+  {
+    text: "1 tsp sugar"
+  },
+  {
+    text: "2 tbsp rose syrup, add as required"
+  },
+  {
+    text: "1 cup water"
+  },
+{
+text: "1 scoop vanilla ice cream"
+}
+]
+}

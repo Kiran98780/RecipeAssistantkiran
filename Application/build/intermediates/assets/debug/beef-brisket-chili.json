@@ -1,0 +1,60 @@
+{
+name: "Sponge Cake.json",
+steps: [
+{
+text: "Preheat the oven to 350 °F (177 °C) ",
+img: "step1-sc.jpg"
+},
+{
+text: "Sift flour and baking powder together. ",
+img: "step2-sc.jpg"
+},
+{
+text: "Cream the butter and sugar. ",
+img: "step3-sc.jpg"
+},
+{
+text: "Beat in the eggs. ",
+img: "step4-sc.jpg"
+},
+{
+text: "Add the flour.",
+  img: "step5-sc.jpg"
+
+},
+{
+text: "Pour batter into a cake pan. ",
+  img: "step6-sc.jpg"
+},
+{
+text: "Let cool.",
+  img: "step7-sc.jpg"
+}
+],
+summary: "",
+title: "Sponge Cake",
+img: "sponge-cake.jpg",
+serving: [
+"Serve with rice, yoghurt and fresh guacamole. Garnish with the remaining coriander."
+],
+ingredients: [
+{
+text: "1 teaspoon vanilla extract"
+},
+{
+text: "2 large eggs"
+},
+{
+text: "1/2 cup white sugar"
+},
+{
+text: "1/2 cup butter"
+},
+{
+text: "1 teaspoon baking powder"
+},
+{
+text: "1 cup self-rising flour, sifted"
+}
+]
+}

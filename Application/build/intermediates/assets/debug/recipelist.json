@@ -1,0 +1,35 @@
+{
+  recipe_list: [
+    {
+      name: "guacamole.json",
+      summary: "Some guacamole recipes call for many ingredients and can be a pain to prepare. This super simple guac can be thrown together in a couple of minutes and tastes great.",
+      title: "Super simple guacamole",
+      img: "guacamole.jpg"
+    },
+    {
+      name: "northern-irish-vegetable-soup.json",
+      summary: "This recipe is apparently unique to Northern Ireland and uses soup/herb celery which is hard to find outside the area, but regular table celery can be substituted (including the leaves).",
+      title: "Northern irish vegetable soup",
+      img: "irish-stew.jpg"
+    },
+    {
+      name: "newrecipe.json",
+      summary: "Noodles are an essential ingredient and staple in Chinese cuisine. Chinese noodles vary widely according to the region of production, ingredients, shape or width, and manner of preparation. They are an important part of most regional cuisines within China, as well as in Singapore, and other Southeast Asian nations with sizable overseas Chinese populations.",
+      title: "Chinese Noodles",
+      img: "chinesenoodles.jpg"
+    },
+    {
+      name: "falooda.json",
+      summary: "Falooda or Faluda is a cold and sweet beverage containing many ingredients very popular in South Asia.",
+      title: "Royal Falooda",
+      img: "falooda.jpg"
+    },
+
+    {
+      name: "beef-brisket-chili.json",
+      summary: "Cake is a form of sweet dessert that is typically baked. In its oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      title: "Sponge Cake",
+      img: "sponge-cake.jpg"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+#Sun Mar 26 15:06:44 IST 2017
+base.0=C\:\\Users\\ctadmin\\Desktop\\kiran\\RecipeAssistantkiran\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\ctadmin\\Desktop\\kiran\\RecipeAssistantkiran\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
